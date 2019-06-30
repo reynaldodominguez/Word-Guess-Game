@@ -1,0 +1,39 @@
+#backImage{
+    width: auto;
+    height: 770px;
+    background-size: cover !important;
+    padding: 5px;
+    
+    
+}
+
+#cityToGuess{
+    margin-top: 10px;
+    font-size: 100px;
+    letter-spacing: 10px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 2px black;
+    
+}
+
+#title{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 2px black;
+}
+
+#lettersGuessed{
+    font-size: 80px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 2px black;
+}
+#results{
+    marging-bottom: -50px;
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    text-shadow: 5px 2px black;
+}
